@@ -3,3 +3,4 @@ myenv/
 node_modules/
 fine_tuned_sbert_epoch5/
 fine_tuned_bert/
+hugginfacepush.py/
