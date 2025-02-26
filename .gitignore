@@ -2,4 +2,4 @@ dump/
 myenv/
 node_modules/
 fine_tuned_sbert_epoch5/
-fined_tuned_bert/
+fine_tuned_bert/
